@@ -18,10 +18,10 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  description = "A Young Entrepreneur's Journey"
+  facebook = "https://facebook.com/alterownfb"
+  twitter = ""
+  instagram = "https://instagram.com/alterown"
   youtube = ""
   github = ""
   gitlab = ""
