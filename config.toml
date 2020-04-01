@@ -31,5 +31,5 @@ enableRobotsTXT = true
   stackoverflow = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "https://www.instagram.com/p/B-WnQTwjTz9/"
+  featured_image = "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/91498576_118927049742041_6468762411871502336_n.jpg?_nc_cat=101&_nc_sid=110474&_nc_oc=AQmxphb86pfpb0J-6m4fgKr_UcJ2BAbbnmJqO9eg_UVdvgm_AV3tkGiZulhESaW8NM8&_nc_ht=scontent-lhr8-1.xx&oh=aee072fffabcccc2692bb8f8db757b90&oe=5EAA2D67"
   recent_posts_number = 2
